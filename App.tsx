@@ -215,7 +215,7 @@ export default function App() {
             Have a project in mind or want to collaborate? Reach out through any of the channels below.
           </p>
           <div className="social-links">
-            <a href="https://linkedin.com/in/omar-fayed" target="_blank" rel="noreferrer" className="social-btn linkedin">
+            <a href="https://www.linkedin.com/in/omar-fayed-654b2a334" target="_blank" rel="noreferrer" className="social-btn linkedin">
               <LinkedInIcon /> LinkedIn
             </a>
             <a href="https://github.com/omar-fayed" target="_blank" rel="noreferrer" className="social-btn github">
